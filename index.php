@@ -8,7 +8,7 @@ error_reporting(0);
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-
+<h1>car</h1>
 <title>Car Rental Portal</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
